@@ -2,7 +2,7 @@
 
 Just me mucking around with building REST APIs in Golang.
 
-# Running locally
+## Running locally
 In this directory run
 
 `go run main.go`
